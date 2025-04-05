@@ -1,0 +1,8 @@
+Nvm : https://github.com/coreybutler/nvm-windows/releases
+https://nodejs.org/fr/blog/release/v16.20.2
+MangoDB Compass : 
+https://www.mangodb.com/try/download/compass
+MangoDB Base de donne :
+https://www.mongodb.com/try/download/community
+Postman : 
+https://www.postman.com/downloads/ ​
